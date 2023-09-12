@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+exec node "/home/jferrara/.local/share/nvim/mason/packages/chrome-debug-adapter/out/src/chromeDebug.js" "$@"
